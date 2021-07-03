@@ -8,7 +8,7 @@ This repository was created to quick start Rails development with Docker.
 $ git clone https://github.com/mcnLeandro/Docker-Rails-MySQL.git {your app name}
 ```
 
-2. Got to the app, and install the node dependency
+2. Go to the app, and install the node dependency
 ```
 $ cd {your app name}
 $ yarn install -y(or you can just type 'npm install -y')
